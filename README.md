@@ -9,6 +9,8 @@
 ![Author](https://img.shields.io/badge/Author-pcl--aacin-green)
 </p>
 
+[中文](README.cn.md)
+
 ## Implementation principle
 Its source code comes from [feross/buffer](https://github.com/feross/buffer), I modified it and imported [feross/ieee754](https://github.com/feross/ieee754) and [beatgammit/base64-js](https://github.com/beatgammit/base64-js) to make it run in the browser. Its underlying storage is based on Uint8Array/ArrayBuffer.
 
